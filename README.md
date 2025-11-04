@@ -1,14 +1,19 @@
 # **Greatsword V3**
 
-[Official Discord Server](https://discord.gg/BMxe6D9CKv)
+[Discord Server](https://discord.gg/fysNqZY9yn)
 
 -------
+
+## Link Tutorials:
+CSB Method: https://youtu.be/ZS109DCg8SM (Made by 5k_explorer on Discord)
+
+Render Method: https://www.youtube.com/watch?v=hysvVkzfHlo
 
 <img width="960" alt="image" src="https://github.com/Tacogamerman/Greatsword-V3/assets/119009502/73c7f8f1-1994-4ae6-8b4c-51e2b798222a">
 
 -------
 
-<img width="960" alt="image" src="https://github.com/Tacogamerman/Greatsword-V3/assets/119009502/1dceac26-624c-4c82-be50-32d1097513c0">
+<img width="960" alt="image" src="https://github.com/Tacogamerman/Greatsword-V3/assets/119009502/bfb5301a-12c5-4446-86f3-515749599102">
 
 
 -------
@@ -34,7 +39,6 @@ In order to use "unsafe" Greatsword V3 links you must put your pointer in the mi
 # Current bugs:
 * Chrome safe browsing may falsely flag links.
 * If this happens, about:blank cloak reports as "unsafe" and typing "thisisunsafe" does not work.
-* Greatsword ***may*** be broken in chrome on windows devices.
 # Links:
 Discord: https://discord.gg/BMxe6D9CKv
 
